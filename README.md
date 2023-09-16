@@ -1,2 +1,5 @@
-# cpp-sample-app
-Sample application used for building c++ applications
+# CPP Sample App Example
+
+## Uses
+### Conan >=2.0
+### CMAKE >=3.0
